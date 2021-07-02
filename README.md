@@ -77,7 +77,7 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [June 23 2021 — hello, world.](https://sebastiancaj.medium.com/june-23-2021-hello-world-432d25376f?source=rss-5192387e5ce7------2)
-- [June 12 2021 — The start of it all.](https://sebastiancaj.medium.com/june-12-2021-7f9502a32954?source=rss-5192387e5ce7------2)
+- [#01 — The start of it all.](https://sebastiancaj.medium.com/june-12-2021-7f9502a32954?source=rss-5192387e5ce7------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
