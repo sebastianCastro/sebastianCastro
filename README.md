@@ -6,16 +6,13 @@
 ### <div align="center">I'm Sebastian, a future full-stack developer 👨‍💻  currently learning at The Odin Project 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🌱 I’m currently studying on [Github Profilinator](www.theodinproject.com).
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ❓ Ask me about anything related to web-dev and related technologies.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I speak english, spanish, and mandarin. 
   
 
 <br/>  
@@ -28,7 +25,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px padding: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
