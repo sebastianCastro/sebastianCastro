@@ -25,19 +25,19 @@
 
 ### Frontend  
 <div align="center">  
-<img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width:100%; margin: 20px;"> 
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="max-width:100%; margin:15px;"/>   
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="max-width:100%; margin:15px;"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="max-width:100%;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="max-width:100%;"/>   
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="max-width:100%;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" style="max-width:100%;"/>  
 </div>
 
 
 
 ### Backend  
 <div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="max-width:100%; margin:15px;"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="max-width:100%; margin:15px;"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="max-width:100%;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="max-width:100%;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="max-width:100%;"/>  
 </div>
 
 
