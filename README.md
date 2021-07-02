@@ -34,8 +34,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -46,11 +44,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
