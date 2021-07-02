@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 ### Hello World 👋
 I am a fullstack software engineer from bangladesh
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
