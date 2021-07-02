@@ -37,7 +37,7 @@
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="max-width:100%; margin:15px;"/>  
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="max-width:100%; margin:15px;"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="max-width:100%; margin:150px;">  
 </div>
 
 
