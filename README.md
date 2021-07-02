@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/sebastianCastro/sebastianCastro/blob/main/hello%20world.gif" alt="banner that says Hello World in the three languages that I speak"> align="center" style="width: 100%" />
+<img src="https://github.com/sebastianCastro/sebastianCastro/blob/main/hello%20world.gif" alt="banner that says Hello World in the three languages that I speak" align="center" style="width: 100%" />
 </div>  
 
 
