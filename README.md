@@ -2,12 +2,7 @@
 <img src="https://github.com/sebastianCastro/sebastianCastro/blob/main/hello-world-gif.gif" align="center" style="width: 100%" />
 </div>  
 
-
-### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
-<br>
+### <div align="center">I'm Sebastian, a future full-stack developer 👨‍💻 currently learning at The Odin Project 🚀</div>  
 
 ## Connect with me
 
