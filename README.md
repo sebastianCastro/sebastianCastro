@@ -25,19 +25,19 @@
 
 ### Frontend  
 <div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="max-width:100%; margin:15px"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="max-width:100%; margin:15px"/>   
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="max-width:100%; margin:15px"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" style="max-width:100%; margin:15px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="max-width:100%; margin:15px;"/>   
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" style="max-width:100%; margin:15px;"/>  
 </div>
 
 
 
 ### Backend  
 <div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="max-width:100%; margin:15px"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="max-width:100%; margin:15px"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="max-width:100%; margin:15px"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="max-width:100%; margin:15px;"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="max-width:100%; margin:15px;"/>  
 </div>
 
 
