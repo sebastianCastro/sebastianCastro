@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sebastian, a future full-stack developer 👨‍💻  currently learning at The Odin Project 🚀</div>  
   
 
-- 🌱 I’m currently studying on [Github Profilinator](www.theodinproject.com).
+- 🌱 I’m currently studying on [The Odin Project](www.theodinproject.com).
   
 
 - ❓ Ask me about anything related to web-dev and related technologies.
