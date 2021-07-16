@@ -76,6 +76,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [#03 — Seven Hours](https://sebastiancaj.medium.com/03-seven-hours-b314132bc16d?source=rss-5192387e5ce7------2)
 - [#02 — hello, world.](https://sebastiancaj.medium.com/02-hello-world-b686b127d873?source=rss-5192387e5ce7------2)
 - [#01 — The start of it all.](https://sebastiancaj.medium.com/june-12-2021-7f9502a32954?source=rss-5192387e5ce7------2)
 <!-- BLOG-POST-LIST:END -->  
