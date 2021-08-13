@@ -2,16 +2,16 @@
 <img src="https://github.com/sebastianCastro/sebastianCastro/blob/main/Banner.jpeg" align="center" style="width: 100%" />
 </div>
 <a href="https://twitter.com/sebastiancaj" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Twitter-%23EFEFE6.svg?&style=for-the-badge&logo=twitter&logoColor=black alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/sebastian_caj" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-%23EFEFE6.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Instagram-%23EFEFE6.svg?&style=for-the-badge&logo=instagram&logoColor=black alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/sebastian_caj" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Codepen-%23EFEFE6.svg?&style=for-the-badge&logo=codepen&logoColor=black alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/sebastian_caj" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Linkedin-%23EFEFE6.svg?&style=for-the-badge&logo=linkedin&logoColor=black alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
