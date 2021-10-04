@@ -32,9 +32,9 @@
 
 ### 📓 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [# — 6 The lost month](https://sebastiancaj.medium.com/6-the-lost-month-15628892ad2b?source=rss-5192387e5ce7------2)
 - [#05 — Etch A Sketch](https://sebastiancaj.medium.com/05-etch-a-sketch-d9fb6d0d6dea?source=rss-5192387e5ce7------2)
 - [#04 — Rock, paper, scissors & DOM!](https://sebastiancaj.medium.com/04-rock-paper-scissors-dom-aca421a00b3b?source=rss-5192387e5ce7------2)
 - [#03 — Seven Hours](https://sebastiancaj.medium.com/03-seven-hours-b314132bc16d?source=rss-5192387e5ce7------2)
 - [#02 — hello, world.](https://sebastiancaj.medium.com/02-hello-world-b686b127d873?source=rss-5192387e5ce7------2)
-- [#01 — The start of it all.](https://sebastiancaj.medium.com/june-12-2021-7f9502a32954?source=rss-5192387e5ce7------2)
 <!-- BLOG-POST-LIST:END -->  
